@@ -1,6 +1,11 @@
+---
+layout: default
+title: Home Page
+---
+
 # Welcome to My Site
 
-This page was generated entirely from plain text using Markdown!
+This content is written in standard Markdown and rendered inside the active Jekyll theme.
 
 ## Key Highlights
 * **Simple syntax:** Easy to read and edit.
